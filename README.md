@@ -17,7 +17,7 @@
 <p align="center">
 <a href="https://prajwalrajup.netlify.app" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="https://prajwalrajup.netlify.app" height="30" width="40" /></a>
 <a href="https://github.com/prajwalraju" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/prajwalraju" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/https://www.linkedin.com/in/prajwalrajup//" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/https://www.linkedin.com/in/prajwalrajup//" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prajwalrajup/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/prajwalrajup/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/prajwalrajup" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/prajwalrajup" height="30" width="40" /></a>
 </p>
 

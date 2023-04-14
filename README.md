@@ -1,14 +1,24 @@
-<h1 align="center">Hi, I'm Prajwal Raju P</h1>
-<h3 align="center">A passionate Backend developer</h3>
+<h1 align="center">Hi there! I'm Prajwal Raju P</h1>
+<h3 >
+I'm a software developer with 2.5 years of experience. I have a passion for building robust, scalable software solutions that solve real-world problems.
+</h3>
+<h3 >
+My expertise lies in developing applications using technologies such as Springboot, React, and PyTorch. I have experience working with both front-end and back-end development, and I am always eager to learn new skills and technologies to enhance my abilities as a developer.
+</h3>
+<h3 >
+In my free time, I enjoy contributing to open-source projects, build cool automation tools, and exploring new programming languages. I also try to stay active and healthy.
+</h3>
+<h3 >
+Feel free to check out my repositories and reach out to me if you have any questions or would like to collaborate on a project. Thanks for stopping by!
+</h3>
+
+<h3 align="center">
+📫 Reach me prajwalrajup@gmail.com
+</h3>
+
+<br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajwalraju&theme=onedark&no-frame=true&column=-1" alt="prajwalraju" /></a> </p>
-
-<p align="center">
-🔭 I’m currently in OLA Electric
-
-<p align="center">
-📫 Reach me @ prajwalrajup@gmail.com
-
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

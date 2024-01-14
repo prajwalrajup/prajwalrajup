@@ -1,0 +1,48 @@
+{
+    "Ola Electric": {
+        "name": "Ola Electric",
+        "designation": "Software Development Engineer I",
+        "location": "Bangalore, INDIA",
+        "startDate": "2021-04-01",
+        "endDate": null,
+        "techStack": [
+            "JAVA",
+            "SpringBoot",
+            "MySQL",
+            "Kafka"
+        ],
+        "descriptions": [
+            "Developed services to provide configurations to the front end application",
+            "Developed services to provide configurationssdf to the front end application"
+        ]
+    },
+    "Sixinterns": {
+        "name": "Sixinterns",
+        "designation": "Full-Stack Intern",
+        "location": "Bangalore, INDIA",
+        "startDate": "2021-01-01",
+        "endDate": "2021-04-01",
+        "techStack": [
+            "react",
+            "javascript"
+        ],
+        "descriptions": [
+            "Built and deployed a Server-side Rendering (SSR) website for the company Sixintern using Node Next.js for front-end and Firebase as a back-end server.",
+            "The website facilitates hiring and maintaining employees of the company. Increasing the productivity of by 25%."
+        ]
+    },
+    "Space Renaissance INDIA chapter": {
+        "name": "Space Renaissance INDIA chapter",
+        "designation": "Research Intern",
+        "location": "Bangalore, INDIA",
+        "startDate": "2020-04-01",
+        "endDate": "2020-07-01",
+        "techStack": [
+            "Research",
+            "Paper"
+        ],
+        "descriptions": [
+            "Researched on different Robust Control Methods for Rigid Robots and publishing the paper in the International Journal of Emerging Technologies and Innovative Research (JEITR)."
+        ]
+    }
+}

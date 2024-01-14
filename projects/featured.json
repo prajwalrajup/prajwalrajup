@@ -1,0 +1,37 @@
+{
+    "Poseidon": {
+        "title": "Poseidon",
+        "description": "A GUI which visually represents the ML model to predict the particle amount in a water body",
+        "techStack": [
+            "Python",
+            "TensorFlow",
+            "eel / Electron"
+        ],
+        "linkOfGithub": true,
+        "link": "https://github.com/prajwalraju/",
+        "image": "https://github.com/prajwalraju/prajwalraju/projects/images/poseidon.png"
+    },
+    "Robust robot": {
+        "title": "Analysis of Robust control methods for rigid robots.",
+        "description": "Prajwal Raju P, Poojashree B, Darshan Halliyavar, and Sourav Karmakar. “Analysis of Robust control methods for rigid robots”. International Journal of Emerging Technologies and Innovative Research JETIR, ISSN:2349-5162, Vol.7, Issue 10, page no.475-483, October-2020.",
+        "techStack": [
+            "Rigid Robots"
+        ],
+        "linkOfGithub": false,
+        "link": "https://www.jetir.org/view?paper=JETIR2010055",
+        "image": "https://github.com/prajwalraju/prajwalraju/projects/images/robustControlPaper.png"
+    },
+    "Sign to Speech": {
+        "title": "Sign to Speech",
+        "description": "A device to track position and gestures of human hand (Sign language) using an array of embedded sensors and convert it to human understandable speech in near real-time using NLP.",
+        "techStack": [
+            "Arduino",
+            "C++",
+            "Python",
+            "NLP"
+        ],
+        "linkOfGithub": true,
+        "link": "https://github.com/Sign-to-speech",
+        "image": "https://github.com/prajwalraju/prajwalraju/projects/images/signToSpeach.png"
+    }
+}

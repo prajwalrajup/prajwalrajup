@@ -1,0 +1,22 @@
+[
+    {
+        "name": "gmail",
+        "logo": "https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png",
+        "link": "mailto:prajwalrajup@gmail.com"
+    },
+    {
+        "name": "linkedin",
+        "logo": "https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png",
+        "link": "https://www.linkedin.com/in/prajwalrajup/"
+    },
+    {
+        "name": "twitter",
+        "logo": "https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png",
+        "link": "https://twitter.com/Prajwal_Raju_P"
+    },
+    {
+        "name": "github",
+        "logo": "https://www.shareicon.net/data/2016/06/20/606964_github_4096x4096.png",
+        "link": "https://github.com/prajwalraju"
+    }
+]

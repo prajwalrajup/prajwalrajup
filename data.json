@@ -2,39 +2,21 @@
     "contactDetails": [
         {
             "name": "gmail",
-            "logo": "https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png",
             "link": "mailto:prajwalrajup@gmail.com"
         },
         {
             "name": "linkedin",
-            "logo": "https://www.freepnglogos.com/uploads/official-linkedin-logo----17.png",
             "link": "https://www.linkedin.com/in/prajwalrajup/"
         },
         {
             "name": "twitter",
-            "logo": "https://www.freepnglogos.com/uploads/twitter-x-logo-png/twitter-x-logo-png-9.png",
             "link": "https://twitter.com/Prajwal_Raju_P"
         },
         {
             "name": "github",
-            "logo": "https://www.shareicon.net/data/2016/06/20/606964_github_4096x4096.png",
             "link": "https://github.com/prajwalraju"
         }
     ],
-    "navBarData": {
-        "ABOUT": {
-            "link": "",
-            "name": "ABOUT"
-        },
-        "CAREER": {
-            "link": "#career",
-            "name": "CAREER"
-        },
-        "PROJECTS": {
-            "link": "#projects",
-            "name": "PROJECTS"
-        }
-    },
     "companies": {
         "Ola Electric": {
             "name": "Ola Electric",
@@ -49,9 +31,10 @@
                 "Kafka"
             ],
             "descriptions": [
-                "Developed services to provide configurations to the front end application",
-                "Developed services to provide configurationssdf to the front end application"
-            ]
+                "Developed Spring Boot backend for a vehicle purchasing app/website, contributing to a record-breaking 1100 Rs crore (USD 144 million) in scooter sales in one day.",
+                "Co-built Test Ride booking service for 10M users across 6 major Indian cities, enhancing customer experience.",
+                "Designed and developed integration systems with third-party vendors (Zendesk, SAP, BikeDekho), showcasing expertise in integration architecture and third-party API development.",
+                "Collaborated with DevOps to establish a high-performance testing environment, resulting in a 30% reduction in infrastructure costs and improved system performance."        ]
         },
         "Sixinterns": {
             "name": "Sixinterns",
@@ -61,12 +44,13 @@
             "endDate": "2021-04-01",
             "techStack": [
                 "react",
-                "javascript"
+                "javascript",
+                "Express"
             ],
             "descriptions": [
-                "Built and deployed a Server-side Rendering (SSR) website for the company Sixintern using Node Next.js for front-end and Firebase as a back-end server.",
-                "The website facilitates hiring and maintaining employees of the company. Increasing the productivity of by 25%."
-            ]
+                "Architected and deployed a dynamic SSR website for Sixintern using Next.js for the front-end and Firebase for the back-end server.",
+                "Streamlined employee hiring and management processes, resulting in a 25% increase in productivity.",
+                "Demonstrated expertise in web development, server-side programming, and successful project delivery."      ]
         },
         "Space Renaissance INDIA chapter": {
             "name": "Space Renaissance INDIA chapter",
@@ -100,7 +84,7 @@
             ],
             "linkOfGithub": true,
             "link": "https://github.com/prajwalraju/",
-            "image": "/featuredProjects/poseidon.png"
+            "image": "https://github.com/prajwalraju/prajwalraju/images/poseidon.png"
         },
         "Robust robot": {
             "title": "Analysis of Robust control methods for rigid robots.",
@@ -110,7 +94,7 @@
             ],
             "linkOfGithub": false,
             "link": "https://www.jetir.org/view?paper=JETIR2010055",
-            "image": "/featuredProjects/paper.png"
+            "image": "https://github.com/prajwalraju/prajwalraju/projects/images/robustControlPaper.png"
         },
         "Sign to Speech": {
             "title": "Sign to Speech",
@@ -123,7 +107,7 @@
             ],
             "linkOfGithub": true,
             "link": "https://github.com/Sign-to-speech",
-            "image": "/featuredProjects/signToSpeach.png"
+            "image": "https://github.com/prajwalraju/prajwalraju/images/signToSpeach.png"
         }
     }
 }

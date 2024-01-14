@@ -84,7 +84,7 @@
             ],
             "linkOfGithub": true,
             "link": "https://github.com/prajwalraju/",
-            "image": "https://github.com/prajwalraju/prajwalraju/images/poseidon.png"
+            "image": "https://raw.githubusercontent.com/prajwalraju/prajwalraju/main/images/poseidon.png"
         },
         "Robust robot": {
             "title": "Analysis of Robust control methods for rigid robots.",
@@ -94,7 +94,7 @@
             ],
             "linkOfGithub": false,
             "link": "https://www.jetir.org/view?paper=JETIR2010055",
-            "image": "https://github.com/prajwalraju/prajwalraju/projects/images/robustControlPaper.png"
+            "image": "https://raw.githubusercontent.com/prajwalraju/prajwalraju/main/images/robustControlPaper.png"
         },
         "Sign to Speech": {
             "title": "Sign to Speech",
@@ -107,7 +107,7 @@
             ],
             "linkOfGithub": true,
             "link": "https://github.com/Sign-to-speech",
-            "image": "https://github.com/prajwalraju/prajwalraju/images/signToSpeach.png"
+            "image": "https://raw.githubusercontent.com/prajwalraju/prajwalraju/main/images/signToSpeach.png"
         }
     }
 }

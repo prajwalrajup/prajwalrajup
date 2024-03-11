@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prajwalraju&theme=onestar&no-bg=true&no-frame=true&column=-1" alt="prajwalraju" />
+    <img src="https://github-profile-trophy.vercel.app/?username=prajwalrajup&theme=onestar&no-bg=true&no-frame=true&column=-1" alt="prajwalrajup" />
   </a> 
 </p>
 
@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=prajwalraju&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=prajwalrajup&theme=transparent&hide_border=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -62,8 +62,8 @@
   <a href="https://prajwalrajup.in/" target="blank">
     <img align="center" src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-64.png" alt="https://prajwalrajup.in/" height="30" width="30" />
   </a>
-  <a href="https://github.com/prajwalraju" target="blank">
-    <img align="center" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/github-64.png" alt="https://github.com/prajwalraju" height="40" width="40" />
+  <a href="https://github.com/prajwalrajup" target="blank">
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/github-64.png" alt="https://github.com/prajwalrajup" height="40" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/prajwalrajup/" target="blank">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/linkedin-64.png" alt="https://www.linkedin.com/in/prajwalrajup/" height="40" width="40" />

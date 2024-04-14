@@ -1,5 +1,5 @@
-{
-    "Underwater Fleck Detection": {
+[
+    {
         "title": "Underwater Fleck Detection",
         "date": "29-12-2021",
         "links": {
@@ -14,7 +14,7 @@
         "desc": "Developed a web application to detect the flecks in the underwater images. The application is built using React.js and Python. The Python backend uses TensorFlow to detect the flecks in the images.",
         "shortDesc": "Web application to detect flecks in underwater images"
     },
-    "RTOS Chatbot": {
+    {
         "title": "RTOS Chatbot",
         "date": "01-12-2020",
         "links": {
@@ -29,7 +29,7 @@
         "desc": "Built a Dynamic website with chatbot features utilizing Dialogflow API. Designed to help our fellow classmates which provides all the details of the particular subject. With the ability of handling more than 1000 clients at once.",
         "shortDesc": "Chatbot to help students with subject RTOS in Dayanada Sagar University"
     },
-    "FarmBot": {
+    {
         "title": "FarmBot",
         "date": "01-04-2020",
         "links": {
@@ -45,7 +45,7 @@
         "desc": "Developed a bot that navigates through farm fields (poly house) with the help of NVIDIA Jetson Nano as the main computing unit and a Conventional neural network for computer vision that uses about 300 Custom datasets.",
         "shortDesc": "Bot that navigates through farm fields autonomously"
     },
-    "FerrariStefanelliMultiplier": {
+    {
         "title": "Ferrari Stefanelli Multiplier",
         "date": "01-10-2020",
         "links": {
@@ -60,7 +60,7 @@
         "desc": "Designed a half and full adders using the Ferrari Stefanelli algorithm. The adder is designed using Verilog and simulated using Xilinx Vivado.",
         "shortDesc": "Designed a half and full adders using the Ferrari Stefanelli algorithm"
     },
-    "SignToSpeech": {
+    {
         "title": "Sign to Speech using Flex sensors",
         "date": "01-03-2020",
         "links": {
@@ -76,7 +76,7 @@
         "desc": "Developed a glove that converts sign language to speech. The glove uses flex sensors to detect the hand gestures and convert them to speech using NLP in real time.",
         "shortDesc": "Glove that converts sign language to speech"
     },
-    "mesos-chrom-extention": {
+    {
         "title": "Mesos Chrome Extension",
         "date": "04-11-2021",
         "links": {
@@ -89,7 +89,7 @@
         "desc": "Developed a chrome extension that uses the chrom v8 workers and extract applicationos deployed using mesos, shows the status and access the logs of the appliation with one click.",
         "shortDesc": "Chrome extension to access mesos applications"
     },
-    "socialStream": {
+    {
         "title": "Social Stream",
         "date": "12-03-2023",
         "links": {
@@ -103,7 +103,7 @@
         "desc": "Developed a python script that uses the reddit and instagram api to get the latest posts from the social media and post them to the respective social media platforms.",
         "shortDesc": "Python script to post the latest posts from reddit to instagram"
     },
-    "spark": {
+    {
         "title": "Spark",
         "date": "08-10-2022",
         "links": {
@@ -117,7 +117,7 @@
         "desc": "Ultimate conversation-starting application designed to ignite connections and lead you on exciting adventures through thought-provoking questions",
         "shortDesc": "Ultimate conversation-starting application"
     },
-    "gitHubAppreciator":{
+    {
         "title": "GitHub Appreciator",
         "date": "01-09-2023",
         "links": {
@@ -130,7 +130,7 @@
         "desc": "GitHubAppreciator is a GitHub Action that brings gratitude to the heart of open-source collaboration. It's designed to automatically thank and appreciate the contributors who dedicate their time and effort to your repositories.",
         "shortDesc": "GitHub Action to thank contributors"
     },
-    "RepoReady":{
+    {
         "title": "RepoReady",
         "date": "05-09-2023",
         "links": {
@@ -143,7 +143,7 @@
         "desc": "RepoReady is a powerful command-line tool built in Go, meticulously crafted to streamline the creation and configuration of GitHub repositories. With RepoReady, you can effortlessly set up new projects on GitHub, complete with a detailed README file and an appropriate LICENSE.",
         "shortDesc": "Command-line tool to create GitHub repositories"
     },
-    "Family-Tree":{
+    {
         "title": "Family Tree",
         "date": "29-08-2021",
         "links": {
@@ -156,4 +156,4 @@
         "desc": "Family Tree is a web application that allows you to create and visualize your family tree. With Family Tree, you can easily add family members, connect them, and explore your family history in a beautiful and interactive way.",
         "shortDesc": "Web application to create and visualize family trees"
     }
-}
+]

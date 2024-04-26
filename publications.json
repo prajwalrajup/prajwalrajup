@@ -19,6 +19,7 @@
     ],
     "url": "https://ieeexplore.ieee.org/document/9641668",
     "description": "Developed an Artificial Intelligence Operation Model for poly house farming to address the increasing demand for food production. Proposed an autonomous vehicle with a Global Positioning System sensor, magnetometer, motor driver, and DC motors, capable of executing tasks such as harvesting and weed removal. An AI Imaging Model using a Convolutional neural network classifier was utilized, with cost analysis performed using various layers. Published the research paper in IEEE, detailing a case study and tabulated analysis of the model trained with 5 layers for different parameters.",
+    "shortDesc": "An AI model for poly house farming to address the increasing demand for food production using CNN and IOT technologies. The model is trained with 5 layers for different parameters. ",
     "doi": "https://doi.org/10.1109/MysuruCon52639.2021.9641668"
   },
   {
@@ -41,6 +42,7 @@
     ],
     "url": "https://www.jetir.org/view?paper=JETIR2010055",
     "description": "Published a paper on robust control techniques for rigid robots in a journal. The paper covers various methods such as the Linear-multivariable Approach, Passivity based approach, Variable structure controllers, the Robust Saturation Approach, and the Robust Adaptive approach. These methods are used to control the motion of robots and improve their precision, productivity, and efficiency. The paper also summarizes multiple related studies in the field.",
+    "shortDesc":"Published a paper on robust control techniques for rigid robots in a journal. The paper covers various methods such as the Linear-multivariable Approach, Passivity based approach, Variable structure controllers, the Robust Saturation Approach, and the Robust Adaptive approach. These methods are used to control the motion of robots and improve their precision, productivity, and efficiency. The paper also summarizes multiple related studies in the field.",
     "doi": "http://doi.one/10.1729/Journal.24662"
   },
   {
@@ -48,15 +50,28 @@
     "publication": "Journal of The Institution of Engineers (India): Series B",
     "date": "2023-11-28",
     "authors": [
-      { "name": "Prajwal Raju P" },
-      { "name": "Poojashree B" },
-      { "name": "Raghaveshwara Hebbar" },
-      { "name": "Vineet Bedre" },
-      { "name": "Dr. Pushpa Mala S" },
-      { "name": "K. R. Manasa " }
+      {
+        "name": "Prajwal Raju P"
+      },
+      {
+        "name": "Poojashree B"
+      },
+      {
+        "name": "Raghaveshwara Hebbar"
+      },
+      {
+        "name": "Vineet Bedre"
+      },
+      {
+        "name": "Dr. Pushpa Mala S"
+      },
+      {
+        "name": "K. R. Manasa "
+      }
     ],
     "url": "https://doi.org/10.1007/s40031-023-00949-1",
     "description": "Monitoring of pollution in water through connected smart devices is impracticable, and still an unexplored and far-fetched domain to investigate. Qualitative identification is typically used to depict the visible or aesthetic characteristics of water. Although the underwater environment remains unexplored and cumbersome to investigate, due to divergent prodigious activities, an underwater fleck detection method is proposed espousing the common visual features of water to investigate the underwater particulate matter. A 3D model for the proposed navigation unit and an application is modeled to determine the concentration of the particulate matter in the hydro samples collected from the surface, the mid, and bottom level of a stagnant water body. The ML model is trained, and the execution time, RAM utilization, memory utilization, overall accuracy, model accuracy, and loss are analyzed for the proposed system.",
+    "shortDesc":"Monitoring of pollution in water through connected smart devices is impracticable, and still an unexplored and far-fetched domain to investigate. Qualitative identification is typically used to depict the visible or aesthetic characteristics of water. Although the underwater environment remains unexplored and cumbersome to investigate, due to divergent prodigious activities, an underwater fleck detection method is proposed espousing the common visual features of water to investigate the underwater particulate matter. A 3D model for the proposed navigation unit and an application is modeled to determine the concentration of the particulate matter in the hydro samples collected from the surface, the mid, and bottom level of a stagnant water body. The ML model is trained, and the execution time, RAM utilization, memory utilization, overall accuracy, model accuracy, and loss are analyzed for the proposed system.",
     "doi": "https://doi.org/10.1007/s40031-023-00949-1"
   }
 ]
